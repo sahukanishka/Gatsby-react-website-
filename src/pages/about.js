@@ -9,9 +9,8 @@ function About() {
         <Layout>
         <div>
             <Header title={title}/>
-            <p>React component with gatsby</p>
+                <p>React component with gatsby</p>
             <Header title="new"/>
-
         </div>
         </Layout>
     )
